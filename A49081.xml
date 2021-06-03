@@ -1,0 +1,1653 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The London chaunticleres a witty comoedy full of various and delightfull mirth.</title>
+         </titleStmt>
+         <extent>Approx. 72KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49081</idno><idno type="EEBO-CITATION">13656983</idno>
+  <idno type="VID">101042</idno>
+  <idno type="EEBO-PROQUEST">2240867146</idno>
+  
+            <idno type="STC">Wing L2893</idno>
+            <idno type="STC">ESTC R922</idno>
+            <idno type="OCLC">13656983</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A49081)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101042)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 793:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The London chaunticleres a witty comoedy full of various and delightfull mirth.</title>
+               </titleStmt>
+               <extent>[4], 35 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Simon Miller ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Often acted with great applause and never before published."</note>
+                  <note>Includes untitled songs without music.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101042:1"/>
+            <pb facs="tcp:101042:1"/>
+            <p>THE LONDON Chaunticleres.</p>
+            <p>A VVITTY COMOEDY, Full of Various and Delightfull MIRTH.</p>
+            <p>Often ACTED with Great Applause And never before Published.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Simon Miller,</hi> at the Star in St. <hi>Pauls</hi> Church-yard. 1659.</p>
+         </div>
+         <div type="dramatis_personae">
+            <pb facs="tcp:101042:2"/>
+            <pb facs="tcp:101042:2"/>
+            <head>Personae.</head>
+            <list>
+               <label>Heath</label>
+               <item>A Broom-man.</item>
+               <label>Bristle</label>
+               <item>A Brush-man.</item>
+               <label>Ditty</label>
+               <item>A Ballad-man.</item>
+               <label>Budgett</label>
+               <item>A Tinker.</item>
+               <label>Gumb</label>
+               <item>A Tooth-drawer.</item>
+               <label>Welcom</label>
+               <item>An Host.</item>
+               <label>Bung</label>
+               <item>A Tapster.</item>
+               <label>Jenneting</label>
+               <item>An Apple-wench.</item>
+               <label>Curds</label>
+               <item>A fresh Cheese and Cream woman.</item>
+            </list>
+         </div>
+         <div type="prologue">
+            <pb facs="tcp:101042:3"/>
+            <head>Prologue.</head>
+            <l>THe style that banisht <hi>Ovid</hi> and his Book,</l>
+            <l>And spight of's Laurell made him Thunderstrook,</l>
+            <l>Is banisht from this Scene by us, and here</l>
+            <l>
+               <hi>Cato</hi> may come into the Theater.</l>
+            <l>At our Love-tricks none need their eye-lids crush,</l>
+            <l>Chast Vestals may look on without a blush:</l>
+            <l>Our Cheats do take if they but Time beguile,</l>
+            <l>And all our Plot is but to make you smile.</l>
+            <l>You're welcome then to <hi>London,</hi> which our show</l>
+            <l>Since you mayn't go to that, has brought to you:</l>
+            <l>Pardon if we offend you with our noise,</l>
+            <l>'Tis but an Eccho of their clamorous voice.</l>
+         </div>
+      </front>
+      <body>
+         <div type="play">
+            <pb n="1" facs="tcp:101042:3"/>
+            <head>THE LONDON CHAUNTICLERES.</head>
+            <div n="1" type="scene">
+               <head>SCEN. I.</head>
+               <stage>
+                  <hi>Enter</hi> Heath <hi>a Broom-man.</hi>
+               </stage>
+               <p>BRooms maids, brooms—old boots or shoos, come buy my brooms.</p>
+               <lg>
+                  <l>You maidens that do cleanse the door,</l>
+                  <l>An make a looking-glass oth' floor,</l>
+                  <l>That every night prepare the ground,</l>
+                  <l>For Oberon to daunce a round,</l>
+                  <l>And do expect Queen Mab for you,</l>
+                  <l>Shou'd drop a Tester in a shoe,</l>
+                  <l>And wou'd sleep without pinching, come</l>
+                  <l>Quickly to me, and buy a broom,</l>
+                  <l>That will effect the thing you mean,</l>
+                  <l>'Tis a new broom, and will sweep clean.</l>
+               </lg>
+               <p>Come buy my broom Maids, Maids did I say! Sure there are none ith' City, or if there be any, they have forsworn my custom: All the brooms I have sold to day, wou'd not sweep half the ground I have gone, and the money I have got, will scarce buy Ale enough to moisten my mouth after one cry. Sure all the City are turn'd dust-men, and the whole Corporation are of the company of Grobians; wo<g ref="char:EOLhyphen"/>men
+<pb n="2" facs="tcp:101042:4"/> sweep their houses with their long coats, and men their shops, with their scrubbed beards; ther's no use of a beesom now, but to make rods of, and sweep the children's backsides. 'Tis better killing men for eight pence a day, or hanging of um for thirteen pence half-peny apiece, than follow this poor and idle life; 'tis easier canting out, A piece of broken bread for a poor man, than singing Brooms maids brooms, come buy my brooms; I shoud e'en go hang my self now, if I were worth a halter; but who will spend a groat on't, when he may be hang'd at free-cost: I'le go rob the Sheriffe, and not leave him enough to hire an executio<g ref="char:EOLhyphen"/>ner for me, steal the Judg's Gown, that he may not come to the Assizes, and poison the Jury, that they may not bring me in guilty. <stage>Enter Bristle.</stage>
+               </p>
+               <sp>
+                  <speaker>Bri.</speaker>
+                  <p>Buy a save-all, buy a save-all; never more need, come, buy a save-all; buy a comb-brush, or a pot-brush, buy a flint or a steel or a tinder-box.</p>
+               </sp>
+               <sp>
+                  <speaker>He.</speaker>
+                  <p>Oh <hi>Bristle</hi> welcom, I perceive by thy merry note, that ther's musick in thy pocket. What, dost jingle?</p>
+               </sp>
+               <sp>
+                  <speaker>Bri.</speaker>
+                  <p>And I perceive by thy heavy countenance, thy purse is light, Dost want coin?</p>
+               </sp>
+               <sp>
+                  <speaker>He.</speaker>
+                  <p>Dost thou doubt that? Dost thou not see I'm sober? Do I swear? or kick, for asking if I want money?</p>
+               </sp>
+               <sp>
+                  <speaker>Bri.</speaker>
+                  <p>These are infallible signs indeed, that thou dost want it.</p>
+               </sp>
+               <sp>
+                  <speaker>He.</speaker>
+                  <p>I have been up this two hours, and have not visited one Ale-house yet.</p>
+               </sp>
+               <sp>
+                  <speaker>Bri.</speaker>
+                  <p>Nay, I am fully satisfied, But canst thou want mo<g ref="char:EOLhyphen"/>ney, whilst thou hast fingers to tell it?</p>
+               </sp>
+               <sp>
+                  <speaker>He.</speaker>
+                  <p>Why, wou'dst have um made of loadstones, to draw all that comes nigh um.</p>
+               </sp>
+               <sp>
+                  <speaker>Br.</speaker>
+                  <p>Canst thou be poor and have a tongue? nay, then 'tis pity but thou shou'dst be sent to the mint thy self, and be stampt into farthings, to be bestowed on beggars: I'de dig to the Antipodes with my nails, but I'de find a Mine: And like the Cripple, run up <hi>Pauls</hi> steeple, but I'de get the silver Cock.</p>
+               </sp>
+               <sp>
+                  <pb n="3" facs="tcp:101042:4"/>
+                  <speaker>He.</speaker>
+                  <p>He had no legs to break, if he had fallen, nor weight enough to crack his neck.</p>
+               </sp>
+               <sp>
+                  <speaker>Br.</speaker>
+                  <p>Nor thou wit enough to be hang'd, thou hadst rather be starved, than break open a cupboard, and die a good poor man, or an honest beggar, than a rich thief, or a Gentleman Rogue. Thou thinkest it more commendable, I warrant, to be carried in a chair from Constable to Constable, with a Warrant from the Church-wardens, that thou art a poor man, and desirest their Charity, that thou art willing to work, but art almost starved, hast half a dozen children, the eldest, not above three years old, their mother having been dead this eight year, and such pitiful complaints, with as many tears as wou'd drown all the victuals thou eat'st, than ride a mile or two in a Cart, with the Sheriff attending on thee: Thou believ'st that more may be gotten, with a Good your (nonsence) Worship to every Jack, than a Sirrah de<g ref="char:EOLhyphen"/>liver your purse to the best Lord i'th' Land: And all this grounded upon that precise Axiom; A little with honesty, is better than a great deal with knavery.</p>
+               </sp>
+               <sp>
+                  <speaker>He.</speaker>
+                  <p>Thanks good <hi>Bristle</hi> for thy counsel, I mean to be as perfect a pick-pocket, as good as ever nipt the Judges bung while he was condemning him. Look to thy purse <hi>Bristle,</hi> least I practise on thee first: The Faries cann't creep through a lesser Key hole than I. Oh for a dead mans hand now, 'tis as good as Poppy seed, to charm the house asleep; it makes um as sencelesse as it self: Come shall we turn Knight Errants. Name the first Adventure: Dost thou know no Enchanted Castle? No Golden Ladies in di<g ref="char:EOLhyphen"/>stresse, or imprisoned by some old Giant Usurer?</p>
+               </sp>
+               <sp>
+                  <speaker>Br.</speaker>
+                  <p>Stay a little <hi>Heath,</hi> I have a design in my head, that will outgo <hi>Don Quixot</hi> or <hi>Palmerin,</hi> as far as they did the Giants they overcame; a Trick that shall load us with Money without any fear of th' Cart.</p>
+               </sp>
+               <sp>
+                  <speaker>He.</speaker>
+                  <p>I'l be thy Squire though I fare no better than <hi>San<g ref="char:EOLhyphen"/>cha Pancha,</hi> and am toss'd in a blanket.</p>
+               </sp>
+               <sp>
+                  <speaker>Br.</speaker>
+                  <p>Come follow me. <stage>Exeunt.</stage>
+                  </p>
+               </sp>
+            </div>
+            <div n="2" type="scene">
+               <pb n="4" facs="tcp:101042:5"/>
+               <head>SCEN. II.</head>
+               <stage>
+                  <hi>Enter</hi> Nacy Curdwell</stage>
+               <sp>
+                  <speaker>Cur.</speaker>
+                  <p>I Have fresh Cheese and Cream, I have fresh Cheese &amp; Cream, Hei ho! But one Suitor yet? Must my sheets lie smooth, till I am wrinkled? Nay then I see Beauty is not a Cable rope, to draw mens hearts after it, nor our mouths a mouse-trap, our tongues a lure, and lips a ginne, our hairs are not fishing lines, nor our noses hooks, these Gud<g ref="char:EOLhyphen"/>geon's will not swallow the bait that hangs there. Nay we cannot catch these meer-men, though our Smocks were made of Net-work, and we hung all or'e with Looking-Glasses. No no, I see when these Buzzards look after Mates they wink and chuse. I think I must have my Nose turn'd into a Bill, and write upon it, Here is a house to be let. I am but Six and Twenty years old, and that's young enough to play with a Baby: O how like the Picture of Charity shou'd I look with too Sucklins at my Breast?</p>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Budget <hi>a Tinker.</hi>
+               </stage>
+               <sp>
+                  <speaker>Bud.</speaker>
+                  <p>Have you any work for a Tinker, Old Brasse, Old Pots, Old Kettles, I'le mend them all with a Tara-tink, and never hurt your Mettal.</p>
+                  <p>Here she is, Me thinks she looks very smug upon me. Now to my Rashion — Most Beautiful, Fair and Vertuous Mistresse, whose Face is a Burning-Glasse, and hath set me on fire, My Sugar-Plumb and Stewd-Pruine Lady, whose fine sharp Nose, like <hi>Cupid's</hi> Darts, hath prick'd me to the heart. Whiter than the Curds thou sell'st, Softer than the Silk thou wearest, Milder than the four-Shilling Beer thou drink'st; <hi>Venus</hi> I believe was a fresh Cheese and Cream woman, and letting fall her pail,
+<pb n="5" facs="tcp:101042:5"/> made the Milky way, but yet came as farre short of thee, my sweet, hony <hi>Nacy,</hi> as whey of butter-milk, or skim'd milk of cream. Oh that I were a Worm to crawl on that face of thine, or a Plea.</p>
+               </sp>
+               <sp>
+                  <speaker>Cur.</speaker>
+                  <p>Hee'd bite me sure.</p>
+               </sp>
+               <sp>
+                  <speaker>Bud.</speaker>
+                  <p>To slip about thy neck; Do not, J pray, tread on me with the foot of disdain, least thou crush my heart as flat as a pancake.</p>
+               </sp>
+               <sp>
+                  <speaker>Cur.</speaker>
+                  <p>Pray leave off your suit, I have no mind to marry, I'le alwaies live a Virgin.</p>
+               </sp>
+               <sp>
+                  <speaker>Bud.</speaker>
+                  <p>What, and lead Apes in hell? What pitty wou'd it be to see you chain'd to a Monky?</p>
+               </sp>
+               <sp>
+                  <speaker>Cur.</speaker>
+                  <p>Or ty'd to you.</p>
+               </sp>
+               <sp>
+                  <speaker>Bud.</speaker>
+                  <p>Oh do not frown! Each wrincle is a grave to me, and angry look a Deaths head: Do not despise me 'cause J am black and you so white, the Moon wears beauty spots, and the fairest Ladies black patches: White petticoats are wrought with black silk, and we put black plumbs into white puddings.</p>
+               </sp>
+               <sp>
+                  <speaker>Cur.</speaker>
+                  <p>But black and white ribbons are worn only at Bu<g ref="char:EOLhyphen"/>rials, never at Weddings; and J wou'd be loth my Wed<g ref="char:EOLhyphen"/>ding sheet shou'd be my shroud, and my bed a grave; therefore pray be gone, and come when J send for you.</p>
+               </sp>
+               <sp>
+                  <speaker>Bud.</speaker>
+                  <p>Sweet sugar-candy Mistress, grant me one thing before you go.</p>
+               </sp>
+               <sp>
+                  <speaker>Curd.</speaker>
+                  <p>What is't?</p>
+               </sp>
+               <sp>
+                  <speaker>Bud.</speaker>
+                  <p>Give me leave to vouchsafe one kisse on those sweet silken parchment lips.</p>
+               </sp>
+               <sp>
+                  <speaker>Curd.</speaker>
+                  <p>Take your farewell, you shall never kisse um a<g ref="char:EOLhyphen"/>gain. <stage>Kisses her and blacks her mouth.</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Bud.</speaker>
+                  <p>Thanks pudding-py <hi>Nacy.</hi>
+                     <stage>Exit.</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Curd.</speaker>
+                  <p>Faw, how he stinks of smoke; Do's he think I'le be his Trull? and that he shall smutch my face thus with his char-coal nose? no, I'le see him burnt first: out up<g ref="char:EOLhyphen"/>on him Beggar, burnt-arse Rogue, Devil, Tinker: J am afraid his ugly looks have soured my Cream, and made all
+<pb n="6" facs="tcp:101042:6"/> my Cheese run to whey, but if he come to me again thus I'le make him blew as well as black.</p>
+               </sp>
+               <stage>Enter Hanna Jenniting.</stage>
+               <sp>
+                  <speaker>Jen.</speaker>
+                  <p>Come buy my Pearmains, curious <hi>John</hi> Apples, dainty Pippins; come who buy's? who buy's?</p>
+               </sp>
+               <sp>
+                  <speaker>Curd.</speaker>
+                  <p>O sister <hi>Hanna,</hi> J wanted you just now, here was a Tinker had like to have run away with me in his Budget; a Copper-nos'd Rogue, Brasen-fac't Rascal.</p>
+               </sp>
+               <sp>
+                  <speaker>Jen.</speaker>
+                  <p>But you were even with him, Nay you are a Whis<g ref="char:EOLhyphen"/>ker I Faith. I see beards are infectious, as well as scab'd lips, Salute your apron and 'twill tell you who you kist last.</p>
+               </sp>
+               <sp>
+                  <speaker>Cur.</speaker>
+                  <p>He has printed a kisse indeed.</p>
+               </sp>
+               <sp>
+                  <speaker>Jen.</speaker>
+                  <p>Was he a Suitor? Did he woe you with Posnets and Skillets? and promise you a Kettle next <hi>Bartholmew</hi> Fair? and how did you answer him? Did you say Fly Brasse, The Divel's a Tinker? Or more mildly tell him you cou'd not settle your Affections on him? But come, look sprightly, Some body will stare so long upon the bright Sun of our Beauties, till they are blinded with beams: Thou knowest when my Mother died, she left us beside some stringed pence and a Grannams groat, seaven suitors, whereof all have forsaken us, but <hi>Graftwell</hi> the Gardiner, and my mother indeed used to say that I was born to be a Gardiners wife as soon as ever J was taken out of her parsly-bed; but 'tis no matter let um go.</p>
+               </sp>
+               <sp>
+                  <speaker>Curd.</speaker>
+                  <p>But J wonder <hi>Hanna,</hi> that you having been an Apple-woman so long, cannot get a Customer for your self, you might go off for a Queen-apple: Come along, the next Chapman shall have us at an easie rate. J have fresh Cheese, &amp;c.</p>
+               </sp>
+               <sp>
+                  <speaker>Jen.</speaker>
+                  <p>Come buy Pippins. <stage>Exeunt.</stage>
+                  </p>
+               </sp>
+            </div>
+            <div n="3" type="scene">
+               <pb n="7" facs="tcp:101042:6"/>
+               <head>SCEN. III.</head>
+               <stage>
+                  <hi>Enter</hi> Ditty <hi>a Ballad-man.</hi>
+               </stage>
+               <p>COme new books, new books, newly printed and newly come forth, all sorts of Ballads and pleasant Books, the Famous History of <hi>Tom Thumb,</hi> and unfortunate <hi>Jack,</hi> a hundred Godly Lessons, and Alas poor Scholler whither wilt thou go: the second part of Mother <hi>Shiptons</hi> Prophecies, newly made by a Gentleman of good quality, foretelling what was done four hundred years ago, and a pleasant Ballad of a bloody fight seen i'th ayr, which the Astrologers say por<g ref="char:EOLhyphen"/>tends scarcity of Fowl this year. <stage>Sings a Ballad.</stage>
+               </p>
+               <stage>
+                  <hi>Enter</hi> Budget.</stage>
+               <sp>
+                  <speaker>Bud.</speaker>
+                  <p>Have you the Ballad of the unfortunate Lover?</p>
+               </sp>
+               <sp>
+                  <speaker>Dit.</speaker>
+                  <p>No, but J have <hi>George</hi> of <hi>Green,</hi> or Chivy Chase, <hi>Collins</hi> and the Devil, or Room for Cuckolds, J have any thing but that.</p>
+               </sp>
+               <sp>
+                  <speaker>Bud.</speaker>
+                  <p>Have you the Coy Maid?</p>
+               </sp>
+               <sp>
+                  <speaker>Dit.</speaker>
+                  <p>J sold that just now, But J have the Ballad of the <hi>London</hi> Prentice, <hi>Guy</hi> of <hi>Warwick,</hi> or the Beggar of <hi>Bednol</hi> Green.</p>
+               </sp>
+               <sp>
+                  <speaker>Bud.</speaker>
+                  <p>What Love-songs have you? J wou'd have a woe<g ref="char:EOLhyphen"/>ing Ballad.</p>
+               </sp>
+               <sp>
+                  <speaker>Dit.</speaker>
+                  <p>J have Twenty of them, Look you her's one, and although J say it my self, as good a one as ever trode upon shoe-leather.</p>
+               </sp>
+               <sp>
+                  <speaker>Budg.</speaker>
+                  <p>What is't? Good <hi>Ditty</hi> let me hear it.</p>
+               </sp>
+               <sp>
+                  <speaker>Dit.</speaker>
+                  <p>The honest Milk-maid, or J must not wrong my Dame.</p>
+               </sp>
+               <sp>
+                  <speaker>Budg.</speaker>
+                  <p>Have you never a one call'd the honest fresh
+<pb n="8" facs="tcp:101042:7"/> Cheese and Cream-woman?</p>
+               </sp>
+               <sp>
+                  <speaker>Dit.</speaker>
+                  <p>J do not remember that, but here is another, you shall hear me sing it.</p>
+                  <lg>
+                     <l>Once did I love a maiden fair,</l>
+                     <l>Down derry, down, down, down, down derry</l>
+                     <l>With Silver locks and Golden hair,</l>
+                     <l>Down derry, <hi>&amp;c.</hi> —</l>
+                     <l>Her Cheeks were like the Rose so sweet</l>
+                     <l>Down derry —</l>
+                     <l>Like Marble Pillars were her feet</l>
+                     <l>Down derry —</l>
+                  </lg>
+                  <p>How like you this? 'Tis a rare tune, and a very pleasant Song.</p>
+               </sp>
+               <sp>
+                  <speaker>Budg.</speaker>
+                  <p>J like the Song well, but J would have a picture upon it like me.</p>
+               </sp>
+               <sp>
+                  <speaker>Dit.</speaker>
+                  <p>Look you here, Her's one as like you, as if it had been spit out of your mouth, your nose, eye, lip, chin, sure they printed it with your face, and the most sweetest Ballad that ever J sung.</p>
+                  <lg>
+                     <l>My Love and I to Medley</l>
+                     <l>Upon a time wou'd goe</l>
+                     <l>The Boat-men they stood ready</l>
+                     <l>My Love and I to row,</l>
+                     <l>Where we had Cakes and Pruines</l>
+                     <l>And many fine things moe</l>
+                     <l>But now alas she has left me</l>
+                     <l>Fa la fa lero lo</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Bud.</speaker>
+                  <p>This is the Ballad I'l have, Come <hi>Ditty</hi> thou sha't teach me to sing it, and I'l pay thee at the next good house. <stage>Exeunt.</stage>
+                  </p>
+               </sp>
+            </div>
+            <div n="4" type="scene">
+               <pb n="9" facs="tcp:101042:7"/>
+               <head>SCEN. IIII.</head>
+               <stage>
+                  <hi>Enter</hi>
+                  <list>
+                     <item>Bristle <hi>like a Shomaker.</hi>
+                     </item>
+                     <item>Heath <hi>like a Butcher.</hi>
+                     </item>
+                  </list>
+               </stage>
+               <sp>
+                  <speaker>He.</speaker>
+                  <p>SLaughter-calf, do you say my name shall be?</p>
+               </sp>
+               <sp>
+                  <speaker>Br.</speaker>
+                  <p>I, I, and mine vamp.</p>
+               </sp>
+               <sp>
+                  <speaker>He.</speaker>
+                  <p>And how do I look now? Like one that was be<g ref="char:EOLhyphen"/>gotten under a Butchers stall I warrant, and born in a slaughter-house, I know there's never a kill-cow it'h City becomes a woollen apron better then I do.</p>
+               </sp>
+               <sp>
+                  <speaker>Br.</speaker>
+                  <p>Liker a Calf then Butcher; Yet thy sheeps head will be some token thou cam'st from the Butch-row, have a care thou dost not forget thy self, and talk of brooms instead of fly-flops, and old boots and shoes instead of calves skins.</p>
+               </sp>
+               <sp>
+                  <speaker>He.</speaker>
+                  <p>I am as artificiall at the trade as the Master o'th' Company, I cou'd fell Jupiter were he a bull again: I am perfectly chang'd, I nere knew <hi>Heath</hi> the broome-man, or the price of a beesom, never traffiqu'd with maids o'th' Kitchin, or shop-boys for old boots and shoes.</p>
+               </sp>
+               <sp>
+                  <speaker>Br.</speaker>
+                  <p>Nor I for new, for all I'm a shoemaker. But to the designe; Stand here, this is the rode she walks, if thou failest, may thy woollen apron be spunne into halters, to hang thee in, and a stall be thy gibbet. <stage>Exit.</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>He.</speaker>
+                  <p>If I don't act my part well, may I be a changeling indeed, and be beg'd for the City fool. If she be coy and by her obstinacy hinder our plot. I'l quarter her out, and sell her for cow-beef, make pettitoes of her fingers and trotters of her feet. <stage>Enter Curdwell.</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Curd.</speaker>
+                  <p>I have fresh cheese and creame.</p>
+               </sp>
+               <sp>
+                  <speaker>He.</speaker>
+                  <p>Harmonious voice! The Witny finger's are but chattering mag-pie's to this melodious Nightingale, and
+<pb n="10" facs="tcp:101042:8"/> the Taber and Pipe, but as the scraping on a brasse pan to this Organ, sure this is the beauty that I must court, If Cupid be not propitious now, I'l cut my brooms into rods and whip the peevish boy: Lady, for so your beauty stiles you, to whom the snow, and swan are black, whither thou art a Goddesse, and come down to punish men, and make them dye with love; Or a mortall which excellest all Goddesses, pitty a wounded heart, which can receive no ease from any thing, but those eyes from whom it did receive it's wounds, there's no Nectar or Ambrosia, but what thy pale affords, the Moon wou'd willingly be that the Welshmen wish it, so thou wou'dst give it room amongst thy cheeses: Be not unkind sweet Lady, one cruel look will make this place my slaughter-house, and thee the butchers butcher.</p>
+               </sp>
+               <sp>
+                  <speaker>Cur.</speaker>
+                  <p>I dare not trust you for all your fair words, men of your profession make it a trade to cheat us.</p>
+               </sp>
+               <sp>
+                  <speaker>He.</speaker>
+                  <p>I'l be as faithfull as thou art fair, and stick as close unto thee, as my shirt does to my back, on a sweltry swetting day, come thou shalt yeeld, and by yeelding con<g ref="char:EOLhyphen"/>quer me.</p>
+               </sp>
+               <sp>
+                  <speaker>Cur.</speaker>
+                  <p>You set upon weak women with your strong comple<g ref="char:EOLhyphen"/>ments, and overcom them whether they wil or no.
+<stage>He moves.</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>He.</speaker>
+                  <p>Move forward, we'l be contracted at the next Ale-house, be married to morrow, and have half a dozen chil<g ref="char:EOLhyphen"/>dren the next day. <stage>Exeunt.</stage>
+                  </p>
+               </sp>
+            </div>
+            <div n="5" type="scene">
+               <head>SCEN. V.</head>
+               <stage>
+                  <hi>Enter</hi> Welcome <hi>an Host.</hi>
+               </stage>
+               <p>SURE I have slept my self into an owle, and mistake night for day, can light dawn and none see the way to my house, for a mornings draught? No groats due? Did
+<pb n="11" facs="tcp:101042:8"/> all my mad lads go sober to bed last night? Such a crime forfeits the City charter: What hoe! speak here sirrah <hi>Bung.</hi>
+                  <stage>
+                     <hi>Enter</hi> Bung.</stage>
+               </p>
+               <sp>
+                  <speaker>Bu.</speaker>
+                  <p>By and by who call's? O Master good morrow to you.</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Why it is day with thee too, <hi>Bung,</hi> and I no owle, speak prithee, how long ist since thou cou'dst grope the tap out?</p>
+               </sp>
+               <sp>
+                  <speaker>Bu.</speaker>
+                  <p>O Sir, this two houres, I have cut two dozen of tosts, broacht a new barrell of Ale, washt all the cups and flaggons, made a fire i'th' <hi>George,</hi> draind all the beer out of th' half Moon the company left o'th floore last night, wip'd down all the tables, and have swept every room, the sun has been up this houre almost.</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>I there's and honest soker, the old blade swills him<g ref="char:EOLhyphen"/>self i'th Sea all night, and quaffs from th' earth all day, and that makes him have such a ruby face, but what no custo<g ref="char:EOLhyphen"/>mers yet?</p>
+               </sp>
+               <sp>
+                  <speaker>Bung.</speaker>
+                  <p>Not one Sir, our old chair-woman <hi>Mary</hi> has not call'd for her mornings draught yet; She that's the tub for all mens snuffs, and devoures me more tappings, then would serve to make strong waters for an Army.</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Sure all the beer that was drunk yesterday had poppy in't instead of mault, and people are not yet awake, or else they mistake my house for a prison, and my old lettice for grates, come <hi>Bung</hi> we'l give our selves handsell, go fill's a lusty pot of Ale.</p>
+                  <p>This is a precious varlet and has tricks enow to furnish all the tapsters between-Charing Crosse, and Fleet bridg, the slight of nicking and frothing he scornes as too com<g ref="char:EOLhyphen"/>mon, but supplies that defect with little juggs and great glasses, and where he feares a dissolution, brings up his flag<g ref="char:EOLhyphen"/>gon, begins the Kings health, and with that decoy draws on another dozen or two, till the whole royall progeny is gone over; he wish't it once as numerous as old <hi>Priam's</hi> was, and another time had like to have been hang'd for praying treason, that there were a hundred Kings i'th'
+<pb n="12" facs="tcp:101042:9"/> Land, that men might be forc'd, to drink all their healths for fear of displeasing any. <stage>
+                        <hi>Enter</hi> Bung.</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Bung.</speaker>
+                  <p>Here Sir, here's a cup of stinging liquor, it is so thick that you may slice it, and came driveling out as if the loving vessel had been loath to part with 't.</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>How? tis cold, the rogue has put ice into't instead of tost, or else one of 's hundred leagar wafers the Baker dry'd for him t'other day in's oven, after his bread was drawn, for the yest of two barrels, you rascal cheat your Master?</p>
+               </sp>
+               <sp>
+                  <speaker>Bung.</speaker>
+                  <p>Cry you mercy good Sir, I protest I had forgot who t' was for, and popt it in before I was aware, but I'l ayr it for you instantly, if you please.</p>
+               </sp>
+               <sp>
+                  <speaker>Wel.</speaker>
+                  <p>No no I'l warm't my self, and it shall warm me, come here's to all good swallow's; So, so, one cup of Ale will shrow'd one better from the cold, then all the furres in <hi>Russia.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Within.</speaker>
+                  <p>Tapster, where are you? Show's a room here.</p>
+               </sp>
+               <sp>
+                  <speaker>Bung.</speaker>
+                  <p>Anon, Anon Sir, you are welcome Gentlemen, Please you walk into th' <hi>George,</hi> there's a good fire and no company. <stage>Exit.</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>To see what lucky hansell will procure, no sooner the cup out of my mouth, but another call'd for, It seemes it staid at me all this while, a dry shabby Host is more ab<g ref="char:EOLhyphen"/>surd, then a dumbe Exchange: These are some boon fellow's I know, the rogue is so perfect in his lerry, <hi>Ditty</hi> and's comrades perhaps, the rascall can never sing well till he has wetted his whistle at my house, he made me set up the signe o'th' flying horse for a <hi>Pegasus,</hi> Budget the <hi>Tinker</hi> too is as good at cracking a pot as any, and <hi>Bristle</hi> the merriest cunningst whorson, he sels his traps two-pence dearer, onely by giving rules how to bait them; for a Dutch mouse with butter forsooth, or bacon, and then for a Welch one, toasted cheese is the best. <stage>
+                        <hi>Enter</hi> Bung.</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Bung.</speaker>
+                  <p>The Gentlemen within desire your company.</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>What are they.</p>
+               </sp>
+               <sp>
+                  <pb n="13" facs="tcp:101042:9"/>
+                  <speaker>Bung.</speaker>
+                  <p>The foure Church-Warden's o'th' Parish, that never exceed half-pence a piece at a mornings draught, must have a flaggon instead of a black-pot, and fire, tost, and nutmeg over and above, nay sometimes a breakefast too.</p>
+               </sp>
+               <sp>
+                  <speaker>Wel.</speaker>
+                  <p>And when they mount so high as a penny, drink at widdow <hi>Grunts,</hi> she that has an eleven children, and say they are prodigall meerly out of charity to the poor O<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>phan pigs, but at th' hall on a Court day, can be as drunk as so many Tinkars at <hi>Banbury,</hi> or Nurses at a Christning, pox on 'um, tell 'um I am busie with other company.</p>
+               </sp>
+               <sp>
+                  <speaker>Bung.</speaker>
+                  <p>Nay Sir, they protest they'l have your jugg in.</p>
+               </sp>
+               <sp>
+                  <speaker>Wel.</speaker>
+                  <p>They shall have me too, then, and for once I'l obey their summon's, but let 'um expect to pay for all they call for, and therefore for me. <stage>Exeunt.</stage>
+                  </p>
+               </sp>
+            </div>
+            <div n="6" type="scene">
+               <head>SCEN. VI.</head>
+               <stage>
+                  <hi>Enter</hi> Gumb <hi>a Tooth drawer.</hi>
+               </stage>
+               <p>HAve you any Cornes upon your feet or toes, any Teeth to draw? —Oh for a flood now or a whole year of raine, that every step may be up to the Ancles in water, and cover every toe with a corne: May the Shoe<g ref="char:EOLhyphen"/>makers make all their shoes too straight, that they may pinch the sore toed miser, and at every tread put him in mind of work for the corn-cutter: May the tooth-ach be an hereditary disease, and prove infections, or so many Aldermen be turn'd into Marble, that the whole City may get rotten teeth with eating of sugar plumbs and sweet-meats at their funeralls. <stage>
+                     <hi>Enter</hi> Ditty.</stage>
+               </p>
+               <sp>
+                  <speaker>Dit.</speaker>
+                  <p>The seven wise men of <hi>Go<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ma,</hi> a hundred merry
+<pb n="14" facs="tcp:101042:10"/> tales, <hi>Scoggins</hi> jests, or a book of prayers and graces for young children.</p>
+               </sp>
+               <sp>
+                  <speaker>Gum.</speaker>
+                  <p>What news books <hi>Ditty?</hi> Any Proclamations that they must forfeit all their toes that have no cornes, or that they must never eat good victualls, that have not the tooth-ach? Are red mufflers and slasht shoes come into fashion? They are as sure signes of the ach of teeth and toes, as a red lettice of an Alehouse.</p>
+               </sp>
+               <sp>
+                  <speaker>Dit.</speaker>
+                  <p>No truly, Master <hi>Gumb,</hi> I have none of these books, but I have as good, I have very strange news from beyond seas.</p>
+               </sp>
+               <sp>
+                  <speaker>Gum.</speaker>
+                  <p>What ist? Do they want corn-cutters, or tooth-drawers, prithee lets heare it.</p>
+               </sp>
+               <sp>
+                  <speaker>Dit.</speaker>
+                  <p>The King of <hi>Morocco</hi> has got the black jaundies and the Duke of <hi>Westphalia</hi> is sick of the swine pox with eat<g ref="char:EOLhyphen"/>ing bacon: The <hi>Moores</hi> encrease daily, and the King of <hi>Cyprus</hi> mournes for the Duke of <hi>Saxon</hi> that is dead of the stone, and Presbyter <hi>John</hi> is advanc't to <hi>Zeland,</hi> the sea ebbs and flowes but twice in four and Twenty hours, and the Moon has chang'd but once the last month.</p>
+               </sp>
+               <sp>
+                  <speaker>Gum.</speaker>
+                  <p>Hold, Hold, here's enough to tire the Doves neck before she gets home. <stage>
+                        <hi>Enter</hi> Budget.</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Bud.</speaker>
+                  <p>Well, I must strike whilst the Iron's hot, good Vulcan be assistant; and graunt that some spark of love may be kindled in her heart, and that I may with my Comple<g ref="char:EOLhyphen"/>ments as with the bellows of <hi>Rhethorick</hi> blow the Coales of good will, and with my forked arguments stirre up the fire of affection in her:—I have been filing my nose and anveling down my chin this two daies, and yet just now there was scarse room enough for her sweet lips and mine to meet: She calls me Vulcan, and Cyclops, and say's I shall be hang'd up for the signe of the black Boy: But tis no matter, It may be when she calls me Vulcan, she would have me make her my <hi>Venus.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Dit.</speaker>
+                  <p>Who is this trough that he is about to run away with.</p>
+               </sp>
+               <sp>
+                  <speaker>Bud.</speaker>
+                  <p>Well I'l try both waies.</p>
+               </sp>
+               <sp>
+                  <pb n="15" facs="tcp:101042:10"/>
+                  <speaker>Dit.</speaker>
+                  <p>How now <hi>Budget:</hi> Can you sing your Ballad yet, come are you perfect.</p>
+               </sp>
+               <sp>
+                  <speaker>Bud.</speaker>
+                  <p>Not yet <hi>Ditty,</hi> but ist to the tune o'th' bleeding heart do you say?</p>
+               </sp>
+               <sp>
+                  <speaker>Dit.</speaker>
+                  <p>I, I, But what makes you so pale <hi>Budget,</hi> there's a cup of Ale at mine host <hi>Welcomes,</hi> will make your nose of ano<g ref="char:EOLhyphen"/>ther colour.</p>
+               </sp>
+               <sp>
+                  <speaker>Bud.</speaker>
+                  <p>O <hi>Ditty,</hi> there is a naile knockt into my heart, it pricks, it pricks.</p>
+               </sp>
+               <sp>
+                  <speaker>Gum.</speaker>
+                  <p>Why if you can't wrench it out weel send for a smith.</p>
+               </sp>
+               <sp>
+                  <speaker>Dit.</speaker>
+                  <p>Has Cupid plai'd the joyner with you then, who ist he has fastend to your heart with th t naile, what mettall is she made of, that you cannot hammer her.</p>
+               </sp>
+               <sp>
+                  <speaker>Bud.</speaker>
+                  <p>It is the City's Beauty.</p>
+               </sp>
+               <sp>
+                  <speaker>Dit.</speaker>
+                  <p>The City's Beauty, who's that, one of my Lord Majors spanniels.</p>
+               </sp>
+               <sp>
+                  <speaker>Gum.</speaker>
+                  <p>I knew a bitch of that name, was a very pretty dog, and would fetch and carry as nimbly as any Porter in the Town.</p>
+               </sp>
+               <sp>
+                  <speaker>Bud.</speaker>
+                  <p>What Villaines, do you make a puppy of me, I'l kick you into glove-dogs, you mungrells, hell-hounds, whelps.</p>
+               </sp>
+               <sp>
+                  <speaker>Dit.</speaker>
+                  <p>Hold, good <hi>Budget,</hi> a jest is but a jest, I spoke but in jest.</p>
+               </sp>
+               <sp>
+                  <speaker>Gum.</speaker>
+                  <p>Nor I indeed Master <hi>Budget.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Bud.</speaker>
+                  <p>Then I kickt you but in jest.</p>
+               </sp>
+               <sp>
+                  <speaker>Gum.</speaker>
+                  <p>I, I Sir, we take it so, you must think if it had been in earnest, though it had been the best man I'th' Land, he had kickt his last.</p>
+               </sp>
+               <sp>
+                  <speaker>Bud.</speaker>
+                  <p>Had he so slave?</p>
+               </sp>
+               <sp>
+                  <speaker>Gum.</speaker>
+                  <p>Yes, when he had done kicking.</p>
+               </sp>
+               <sp>
+                  <speaker>Dit.</speaker>
+                  <p>Good <hi>Budget</hi> be pacifi'd, and wee'l recompense the injury we have done you, with our forwardnesse to promote your desires, and translation out of the Circle of love into the wedding ring.</p>
+               </sp>
+               <sp>
+                  <pb n="16" facs="tcp:101042:11"/>
+                  <speaker>Bud.</speaker>
+                  <p>Thanks kind <hi>Ditty,</hi> walk along with me, and I will shew thee, the sweet Empresse of my heart, I am ap<g ref="char:EOLhyphen"/>peas'd <stage>Exeunt</stage>
+                  </p>
+               </sp>
+            </div>
+            <div n="7" type="scene">
+               <head>SCEN. VII.</head>
+               <stage>
+                  <hi>Enter</hi> Bristle <hi>and</hi> Jenniting.</stage>
+               <sp>
+                  <speaker>Bris.</speaker>
+                  <p>YES truly I am one of th' Gentle-craft, though I have got somewhat of the Taylor's trade too, some hangers on, fellow travellers, that I cannot be rid off, though are still upon my back, they put me to foul shifts sometimes.</p>
+               </sp>
+               <sp>
+                  <speaker>Jen.</speaker>
+                  <p>Then you know <hi>Chrispianus.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Bris.</speaker>
+                  <p>Yes, he is a Saint amongst us, of whose votary I am one, that each Munday morning liquor his Altar with Ale, and greaze it with bacon.</p>
+               </sp>
+               <sp>
+                  <speaker>Jen.</speaker>
+                  <p>So you sacrifice the hog to get the bristles.</p>
+               </sp>
+               <sp>
+                  <speaker>Bris.</speaker>
+                  <p>(She knows my name sure) but 'tis no matter for him hereafter, I'l know no Saints but thee, be not therefore unkind, but look with a favourable aspect on him that can expect no bad influence from so benigne a starre.</p>
+               </sp>
+               <sp>
+                  <speaker>Jen.</speaker>
+                  <p>You do but flatter me, I am not so good a one as you make me.</p>
+               </sp>
+               <sp>
+                  <speaker>Bris.</speaker>
+                  <p>Now by <hi>Jove</hi> thou art fairer then <hi>Callisto</hi> (and more like a Beare) more divine then <hi>Cassiopeia,</hi> do but consider that every Sow has a ring, and will not you have one.</p>
+               </sp>
+               <sp>
+                  <speaker>Jen.</speaker>
+                  <p>Well Vamp you know how to take the length of womens feet.</p>
+               </sp>
+               <sp>
+                  <speaker>Bris.</speaker>
+                  <p>Come my <hi>Jenniting</hi> we will have twins every year.</p>
+               </sp>
+               <sp>
+                  <speaker>Jen.</speaker>
+                  <p>Such as shall be Christned at Saint <hi>James</hi>-tide I warrant.</p>
+               </sp>
+               <sp>
+                  <pb n="17" facs="tcp:101042:11"/>
+                  <speaker>Bri.</speaker>
+                  <p>No, no, two Boyes and so many Wenches, that we will furnish the whole City with Hearb-women and Coster-mongers of our own progeny, there shall not be an Apple-wife in the whole Countrey, but she shall be ingraft<g ref="char:EOLhyphen"/>ed into some branch of our Family, not a day in the whole year shall passe but some tree of our stock shall be set, till we have enough to plant a wildernesse, and people it. Go pack up thy Treasure, the time flies to fast, but wee'l outstrip it, to night wee'l be at a place some ten miles off, where a house ready furnisht waits for thee, with all things necessa<g ref="char:EOLhyphen"/>ry for the Celebration of our Nuptials. I'l fit thee with a pair of shoes; Let's see thy foot, It is of the eighteens, Thou sha't have astrapping pair; Make hast.</p>
+               </sp>
+               <sp>
+                  <speaker>Jen.</speaker>
+                  <p>Thankes Kind <hi>Vamp,</hi> All that J have is thine.</p>
+               </sp>
+               <stage>Exit.</stage>
+               <sp>
+                  <speaker>Bris.</speaker>
+                  <p>J hope so, or else my Plot fails me: If <hi>Heath</hi> speed with <hi>Nacy Curds</hi> as well as J have with <hi>Hanna Jenni<g ref="char:EOLhyphen"/>ting,</hi> we shall make quick work with 'um, we shall fledge our selves before we fly, Let them husband what we leave um as well as they can. <stage>Exit.</stage>
+                  </p>
+               </sp>
+            </div>
+            <div n="8" type="scene">
+               <head>SCEN. VIII.</head>
+               <stage>
+                  <hi>Enter</hi> Heath <hi>and</hi> Curds.</stage>
+               <sp>
+                  <speaker>Heath.</speaker>
+                  <p>YES it is a very neat house, 'tis at the sign of the Bull, 'tis newly covered with Calves-skins, and pav'd with knuckle bones; thou shalt not deny me, wee'l be there to night, and 'tis but three hours journey, let me have thy bundles of necessaries an hour hence, and I'l see 'um safe sent before; thou sha't be the Lady o'th Town.</p>
+               </sp>
+               <sp>
+                  <speaker>Curd.</speaker>
+                  <p>J have been one in my daies, when we kept the Whitson-Ale, where we daunc't the building of <hi>London</hi>-Bridge upon wool-packs and the hay upon a Grasse-plat, and
+<pb n="18" facs="tcp:101042:12"/> when we were a weary with dauncing hard, we alwaies went to the Cushion daunce.</p>
+               </sp>
+               <sp>
+                  <speaker>He.</speaker>
+                  <p>I, wee'l have dauncing at out wedding too, when the Cups of Canary have made our heads frisk. O how we shall foot it when we can scarce stand, and caper when we are cut in the leg! The first year shall be a leap year with us.</p>
+               </sp>
+               <sp>
+                  <speaker>Curd.</speaker>
+                  <p>What shall we have at our wedding dinner? Wee'l be sure of a Plumb-pudding, that shall be the very flour of the Feast.</p>
+               </sp>
+               <sp>
+                  <speaker>He.</speaker>
+                  <p>Then a Leg of Beef shall walk round the Table like a City Captain with a Target of Lamb before it, A Snipe with his long Bill shall be Serjeant, and a Capon car<g ref="char:EOLhyphen"/>ry the Drum-sticks: Thou shalt be Lady General, and pick out the choicest of every dish for thy Life-guard.</p>
+               </sp>
+               <sp>
+                  <speaker>Curd.</speaker>
+                  <p>I'l pay them to the full.</p>
+               </sp>
+               <sp>
+                  <speaker>Heat.</speaker>
+                  <p>Till anon good buy. <stage>
+                        <hi>Exit</hi> Heath.</stage>
+                  </p>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Budg. Ditty Gumb.</stage>
+               <sp>
+                  <speaker>Dit.</speaker>
+                  <p>Pox o' thy ugly face, Ca'st not sing, but thou must cry too? Look there shee is; Good <hi>Gumb</hi> hold my shop a little.</p>
+               </sp>
+               <sp>
+                  <speaker>Bud.</speaker>
+                  <p>And mine too.</p>
+               </sp>
+               <sp>
+                  <speaker>Gumb.</speaker>
+                  <p>Now do I look like one of the Pillars in the Ex<g ref="char:EOLhyphen"/>change. <stage>Exit.</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Budg,</speaker>
+                  <l>
+                     <hi>Sweet Lady smile on me</hi>
+                  </l>
+                  <l>
+                     <hi>Now merrily</hi>
+                  </l>
+                  <l>
+                     <hi>For if thou frown on me</hi>
+                  </l>
+                  <l>
+                     <hi>Sure I shall die.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Curd.</speaker>
+                  <p>Hissing Adders</p>
+               </sp>
+               <sp>
+                  <speaker>Both</speaker>
+                  <l>
+                     <hi>Sure I shall die,</hi> &amp;c. —</l>
+                  <stage>Croaking Toads.</stage>
+                  <l>
+                     <hi>Thy eye like a Cockatrice</hi>
+                  </l>
+                  <l>
+                     <hi>Kils with a look</hi>
+                  </l>
+                  <l>
+                     <hi>They shine like the Sun</hi>
+                  </l>
+                  <l>
+                     <hi>I do swear on a book.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <pb n="19" facs="tcp:101042:12"/>
+                  <speaker>Curd.</speaker>
+                  <p>Away Screetch-owles.</p>
+               </sp>
+               <sp>
+                  <speaker>Both</speaker>
+                  <p>J swear on a book, <hi>&amp;c.</hi>— <stage>
+                        <hi>Exit</hi> Curds</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Budg.</speaker>
+                  <p>Stay <hi>Ditty</hi> she is deaf and wou'd not hear though <hi>Orpheus</hi> plai'd, nor be move'd though the stones and trees danc't.</p>
+               </sp>
+               <sp>
+                  <speaker>Ditty.</speaker>
+                  <p>Give me thy letter then, I'l run after her and de<g ref="char:EOLhyphen"/>liver it my self.</p>
+               </sp>
+               <sp>
+                  <speaker>Bud.</speaker>
+                  <p>Prithee do, kind-hearted <hi>Ditty.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Dit.</speaker>
+                  <p>O what a nimble <hi>Cupid</hi> shall J be? <hi>Venus</hi> her self will mistake me for her Boy.</p>
+               </sp>
+               <sp>
+                  <speaker>Bud.</speaker>
+                  <p>I'l wait here till thou returnest. <stage>Exeunt,</stage>
+                  </p>
+               </sp>
+            </div>
+            <div n="9" type="scene">
+               <head>SCEN. IX.</head>
+               <stage>
+                  <hi>Enter</hi> Bristle <hi>and</hi> Heath.</stage>
+               <sp>
+                  <speaker>Bristle.</speaker>
+                  <p>VVHat did she melt easily? Was she pli<g ref="char:EOLhyphen"/>able?</p>
+               </sp>
+               <sp>
+                  <speaker>He.</speaker>
+                  <p>O like Coblers wax, she stuck to my fingers J could hardly get her off, and had much ado to perswade her not to undo her self quite, she wou'd have had me gone home and took all, nay wou'd have rob'd her Aunt too, but that J shou'd che<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t her sufficiently: This will be the best daies work J have done this many a year.</p>
+               </sp>
+               <sp>
+                  <speaker>Bri.</speaker>
+                  <p>And yet all my Rhetorick cou'd scarce perswade you to be wise.</p>
+               </sp>
+               <sp>
+                  <speaker>He.</speaker>
+                  <p>I am thy Scholler, and thou sha't find I'l prove an apt one. If J am not as perfect at the Art, as thy self in a short time, may J never be made free, but alwaies steal for others, and be hang'd my self.</p>
+               </sp>
+               <sp>
+                  <speaker>Bri.</speaker>
+                  <p>Yet still thou owest thy learning unto me, if J had not been thy Master, thou mightst have sat at home now, with a cup of cold water, and thy precious Jewel, a conten<g ref="char:EOLhyphen"/>ted mind, wishing thou hadst but money enough to pay a forfeit for being drunk, though thy empty pockets forc't thee to be sober.</p>
+               </sp>
+               <sp>
+                  <pb n="20" facs="tcp:101042:13"/>
+                  <speaker>He.</speaker>
+                  <p>Come prithee leave, J my self do now laugh at my former ignorance, Thou hast infus'd a new soul into me, Thou hast plaid. Hocus-pocus with me J think, and juggled <hi>Gusmond</hi> or Country <hi>Tom's</hi> Legerdemain into me; Ther's not such a change in all the Metamorposis.</p>
+               </sp>
+               <sp>
+                  <speaker>Br.</speaker>
+                  <p>And how hast thou bargaind with thy whey-fac't wench, what hast thou gain'd by the project, nothing but wit?</p>
+               </sp>
+               <sp>
+                  <speaker>He.</speaker>
+                  <p>Yes a Silver Bodkin and Thimble, and as many Curds as wou'd serve the Court-Ladies for a Twelvemoneth Besides the Box laden with all the Plate and Houshold-stuff that her pitchy fingers cou'd stick to in six years service, with which J believe she now waits for me at the appointed place; what we can't turn into Money we will into Ale, and drink it out: Mine Host <hi>Welcom</hi> has a Cup of blessed Lull.</p>
+               </sp>
+               <sp>
+                  <speaker>Bri.</speaker>
+                  <p>Away, make hast, wee'l empty his Celler to night and draw his Barrels out into our Hogs-heads.</p>
+               </sp>
+               <sp>
+                  <speaker>He.</speaker>
+                  <p>I'l out-fly the swift. <stage>Exit.</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Bri.</speaker>
+                  <p>But scarce out-go an Owl: This Fellow will J so tutor, that he shall rob <hi>Mercury</hi> himself, surpasse <hi>Prometheus,</hi> and steal the Sun from Heaven, filch away <hi>Venus's</hi> Box of Beauty, and pawn it to Ladies, not to be redeem'd but by the Golden Apple that <hi>Paris</hi> gave her, <hi>Jupiter's</hi> Thunder too, and sell it to besieged Townes for Granado's.</p>
+                  <stage>
+                     <hi>Enter</hi> Jenniting <hi>with a Bundle.</hi>
+                  </stage>
+                  <p>O here comes my precious <hi>Hanna!</hi> Never so lovely as now, when shee brings a Bundle along with her. That Beauty-spot makes her look fair, Come my Sweeting, eve<g ref="char:EOLhyphen"/>ry minute was an age till thou camest, But why so wrinkled? Those looks do not become a Bride.</p>
+               </sp>
+               <sp>
+                  <speaker>Jen.</speaker>
+                  <p>Is there no danger of drowning? J am ready to sink every time J think of the water, J cannot chuse but quake ever since J was in the Ducking-stool.</p>
+               </sp>
+               <sp>
+                  <speaker>Bri.</speaker>
+                  <p>Never fear it. Thou shalt be Queen o'th Thames, and command the waves, be Crown'd with water-cress's, and onrob'd in water'd Grogerum: The Nymphs shall
+<pb n="21" facs="tcp:101042:13"/> curl thy hair, and Syrens sing thy Nuptials, the Sea shall drink thy Health, till it spues and purges again, and swell with pride that it can carry thee.</p>
+               </sp>
+               <sp>
+                  <speaker>Jen.</speaker>
+                  <p>These Lines are strong enough to hold an An<g ref="char:EOLhyphen"/>chor.</p>
+               </sp>
+               <sp>
+                  <speaker>Br.</speaker>
+                  <p>Dolphins shall bring Musicians on their backs, and spout out Cans of Beer beyond the Conduits on the May<g ref="char:EOLhyphen"/>ors Day.</p>
+               </sp>
+               <sp>
+                  <speaker>Jen.</speaker>
+                  <p>Wee'l have a Fish Dinner too, and the Lady o'th Lobster shall be Mistresse o'th Feast.</p>
+               </sp>
+               <sp>
+                  <speaker>Bri.</speaker>
+                  <p>Yes, Yes, and Tritons Trumpet shall eccho up each Messe, while we sound the bottom of our Ocean Cups, and drown God <hi>Neptune</hi> in a Sea of wine—But let not your Sister <hi>Nacy</hi> hear of it for your ears, Shee'l raise a Tempest will shipwrack all our hopes, shee'l storm louder than the winds. Meet me here two hours hence with all your Tacklings, I'l see this Bundle shall be safe, The rud<g ref="char:EOLhyphen"/>dy Skie promises a fair Gale, if the winds fail us, and blow enviously, wee'l blast <hi>Aeolus.</hi>
+                     <stage>Exeunt.</stage>
+                  </p>
+               </sp>
+            </div>
+            <div n="10" type="scene">
+               <head>SCEN. X.</head>
+               <stage>
+                  <hi>Enter</hi> Ditty.</stage>
+               <p>VVELL if ever J carry Love-Letters again, may they make a Love-Letter of me, turn my skin to Paper, my Skull to an Ink-horn, and make a pen of my Nose, it will be excellent for a fast hand, for it runs conti<g ref="char:EOLhyphen"/>nually, and is so moist that it will write without Ink. Nay if ever J thrust my self into wedding businesses again, may, a piece of Match be my Bane, may the Bridegroom wring my ears off, hang me in the Brides Garter, or drown me in the Sack posset, and if he bury me, bestow this thred-bare Epitaph.</p>
+               <q>
+                  <pb n="22" facs="tcp:101042:14"/>
+                  <l>Here lieth <hi>Tom Ditty</hi> under this stone,</l>
+                  <l>That carri'd Love-Letters, Reader go on,</l>
+                  <l>But stay, wou'dst thou know the cause of his death</l>
+                  <l>Th' long-winded Letter put him out of breath.</l>
+               </q>
+               <p>The next Epistle J carry for <hi>Budget,</hi> he shall carry himself; I'l not be his Post, to be her Beating-block too, Pox on's Kettle-Drum, 'tis good for nothing but to call the Moon out of an Eclipse, and hee'l serve for naught neither, but a Chimney-sweeper's shadow, or Bug-bear to fright froward Children. I'l have some revenge on him, and deliver him up into her hands, if she do not sufficienty punish him, I'l forgive him. <stage>
+                     <hi>Enter</hi> Budget.</stage>
+               </p>
+               <sp>
+                  <speaker>Dit.</speaker>
+                  <p>Oh here comes the Chimney, the man of foot, the Picture of smoke and Cinders.</p>
+               </sp>
+               <sp>
+                  <speaker>Bud.</speaker>
+                  <p>Oh <hi>Ditty</hi> J see by thy face ther's ill News.</p>
+               </sp>
+               <sp>
+                  <speaker>Dit.</speaker>
+                  <p>J, Pox on't, J was set upon yonder by a company of women, and had like to have been scoulded into a Crip<g ref="char:EOLhyphen"/>ple, for singing Room for Cuckolds tother day.</p>
+               </sp>
+               <sp>
+                  <speaker>Bud.</speaker>
+                  <p>But what said my <hi>Nacy?</hi> Did she smile? and say that all her Denials were Maiden's Nayes? Is she soft<g ref="char:EOLhyphen"/>ned, and will she now let me tast her Straw-berry lips wil<g ref="char:EOLhyphen"/>lingly?</p>
+               </sp>
+               <sp>
+                  <speaker>Dit.</speaker>
+                  <p>Yes, and give you Cream to 'um too, why, she is almost mad for you, and has bespoke a place in Bedlam al<g ref="char:EOLhyphen"/>ready, If you do not go quickly and recover her, shee'l ei<g ref="char:EOLhyphen"/>ther be turn'd into a Kettle with grief, or melt into Bell<g ref="char:EOLhyphen"/>mettal that she may be made a Posnet of, Nay and desired me to tell you, that if after her transformation, she chance ever to come under your hands to be mended, she wou'd de<g ref="char:EOLhyphen"/>sire you to use her gently, and that you shou'd know which was she, She had provided in her will, that <hi>H L</hi> may be set on her Handle for <hi>Nacy Curdwel.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Bud.</speaker>
+                  <p>J will, J will, I'l mend her with Sugar Nails and a <hi>Naples</hi>-Bisket Hammer. But is there no way to perswade her to live still a woman? J wou'd be loft to carry my wife at my back, and have one with three legs.</p>
+               </sp>
+               <sp>
+                  <pb n="23" facs="tcp:101042:14"/>
+                  <speaker>Dit.</speaker>
+                  <p>If you make hast, you may chance to come before she is quite chang'd, you may save a leg perhaps or an arm of Flesh yet, but J beleeve the most part of her is Brasse already.</p>
+               </sp>
+               <sp>
+                  <speaker>Bud.</speaker>
+                  <p>Good <hi>Ditty</hi> go along with me, if she be a pot be<g ref="char:EOLhyphen"/>fore J come, J'l weep it full of tears, and then be boil'd to death in't. <stage>Exeunt.</stage>
+                  </p>
+               </sp>
+            </div>
+            <div n="11" type="scene">
+               <head>SCEN. XI.</head>
+               <stage>
+                  <hi>Enter</hi> Gumb <hi>with the Tinkers Budget and Ballad-mans Box.</hi>
+               </stage>
+               <p>ANy old Pots or Ket<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>les to mend? Will you buy my Bal<g ref="char:EOLhyphen"/>lads, Or have you any Corns on your feet toes? Nay J am Jack of all Trades now: Three is a perfect number, and so many J have; Nay Master Tinker, you kickt me to day, but since you are so light of your heels, I'l make you walk after your Budget before you have it: 'T shall be in trouble presently, not to be delivered without a Fee. I'l drink as much Ale on the Kettle as will fill it; the rest o'th tools shall go for Jugs apiece: And then Master <hi>Ditty,</hi> J will be merry with your Ballads too, They must lie in Lavender a little, and soke. If they will but yeeld me draughts apiece, J care not, and the Box shall serve to score on. But stay, Had J not better burn it, to bake the Tosts and warm the Ale? Hang't 'tis but engaging the Books Two-pence or a Groat deeper, and have some three or four Bundles of strawes like faggots, and 'twill be <hi>all a mode.</hi>
+               </p>
+               <stage>
+                  <hi>Enter</hi> Bristle <hi>and</hi> Heath <hi>with Bundles.</hi>
+               </stage>
+               <sp>
+                  <speaker>Bri.</speaker>
+                  <p>Shee'l say J am a pretty Jewel to run away with her Cabinet; But 'tis no matter, This Box will make me flou<g ref="char:EOLhyphen"/>rish
+<pb n="24" facs="tcp:101042:15"/> all the year long.</p>
+               </sp>
+               <sp>
+                  <speaker>Gumb.</speaker>
+                  <p>So, so, Here are companions that will help drink the Sea dry, meer Gulphs or whirl-pools that suck in all that comes nigh 'um.</p>
+               </sp>
+               <sp>
+                  <speaker>Br.</speaker>
+                  <p>Come <hi>Heath</hi> open thy Treasury, what's the first Pearl?</p>
+               </sp>
+               <sp>
+                  <speaker>Gumb.</speaker>
+                  <p>These Ale-suckers too are a going to liquor some prize, that their lime-twig fingers have seized upon.</p>
+               </sp>
+               <sp>
+                  <speaker>He.</speaker>
+                  <p>A pair of silver-handled Knives, these J believe she made, when she liv'd with my Lady May'resse; next a pair of white Gloves, these she had at the Funeral of a dear friend, for whose sake she meant to be buried in 'um her self, And how wou'd <hi>Cerberus</hi> take it, to see one come to Hell with a dog-skin pair of Gloves? A silken Garter, this J warrant it she had at a wedding, and intended to bestow it on her own Bride-maid: Then a pair of Sizzers.</p>
+               </sp>
+               <sp>
+                  <speaker>Gum.</speaker>
+                  <p>Sure these Villains have rob'd an Haberdasher, and stole a Box of small ware.</p>
+               </sp>
+               <sp>
+                  <speaker>He.</speaker>
+                  <l>
+                     <hi>Come out to the Light</hi>
+                  </l>
+                  <l>
+                     <hi>Than which thou'rt more bright</hi>
+                  </l>
+                  <l>
+                     <hi>This Box thee no longer shall harbour,</hi>
+                  </l>
+                  <l>
+                     <hi>'Tis thou that hast made</hi>
+                  </l>
+                  <l>
+                     <hi>Mee o'th Triple Trade,</hi>
+                  </l>
+                  <l>
+                     <hi>A Tailor, a Semster, a Barber.</hi>
+                  </l>
+                  <l>
+                     <hi>With thee I will shave</hi>
+                  </l>
+                  <l>
+                     <hi>The Barbarian Slave,</hi>
+                  </l>
+                  <l>
+                     <hi>And trim up the Youngsters of</hi> Poland,</l>
+                  <l>
+                     <hi>Make a jump of</hi> Aleppo,</l>
+                  <l>
+                     <hi>Of</hi> Friezland <hi>a Joppo,</hi>
+                  </l>
+                  <l>
+                     <hi>And a stately brave Shirt of</hi> Holland.</l>
+               </sp>
+               <sp>
+                  <speaker>Gum.</speaker>
+                  <p>Well sung of a woodcock, come thou must go have thy pipe tun'd at mine host <hi>Welcom's,</hi> thou art like the glasse pipe that will never whistle but when there's water in't.</p>
+               </sp>
+               <sp>
+                  <speaker>He.</speaker>
+                  <p>Ho, ho, what furniture for a whole fair upon thy
+<pb n="25" facs="tcp:101042:15"/> back at once? dress'd up just like the woodden boy's on Haberdasher's stalls.</p>
+               </sp>
+               <sp>
+                  <speaker>Bris.</speaker>
+                  <p>Three strings to thy bow at once, sure thou canst not break, when thou hast such a triple cord to hold thee.</p>
+               </sp>
+               <sp>
+                  <speaker>Gum.</speaker>
+                  <p>A single one I believe wou'd spoile your drinking, 'twou'd ty up your guzle.</p>
+               </sp>
+               <sp>
+                  <speaker>Bris.</speaker>
+                  <p>But how dar'st thou walk abroad before owlight? Dost think there's no birds stirring still, that will spy out these Feathers? Come off with thy box of Poetry, the Muses warehouse, <hi>Calliope's</hi> Cabinet, tis ominous to have the string about thy neck: If thou art taken with 'um, thou maist be condemn'd to make as many wry mouth's, as the squeeking owner did, when he last strain'd and vomitted 'um out at Smith-feild or py cor<g ref="char:EOLhyphen"/>ner.</p>
+               </sp>
+               <sp>
+                  <speaker>Gum.</speaker>
+                  <p>O there's no feare of that, though he that these call Master had my neck in a slip, these are <hi>Ditty's,</hi> and these <hi>Bugdets,</hi> they gave 'um me to hold a little, but I'l carry 'um to the flying horse, and change 'um for a cup of <hi>Helicon,</hi> which will in halfe an houre make me able to repay these paultry rhimes in <hi>Heroick</hi> verse.</p>
+               </sp>
+               <sp>
+                  <speaker>Bris.</speaker>
+                  <p>Come shall we joyne together, we three are able to spunge up all the Ale i'th City, and raise the price of malt.</p>
+               </sp>
+               <sp>
+                  <speaker>Gum.</speaker>
+                  <p>A match, as farre as these will go I'm for you.</p>
+               </sp>
+               <sp>
+                  <speaker>He.</speaker>
+                  <p>And when they'r gone, wee'l drink our very shirts out, and then pawn our selves too. <stage>Exeunt.</stage>
+                  </p>
+               </sp>
+            </div>
+            <div n="12" type="scene">
+               <pb n="26" facs="tcp:101042:16"/>
+               <head>SCEN. XII.</head>
+               <stage>
+                  <hi>Enter</hi> Jenniting <hi>and</hi> Curds.</stage>
+               <sp>
+                  <speaker>Jen.</speaker>
+                  <p>VVAS he a Butcher say you?</p>
+               </sp>
+               <sp>
+                  <speaker>Cur.</speaker>
+                  <p>I and call'd me his pretty Lamb, and his sweet-bred, told me he wou'd meet me here two houres agoe, and promis'd me mountaines, but bid me I shou'd not tell you on't.</p>
+               </sp>
+               <sp>
+                  <speaker>Jen.</speaker>
+                  <p>They are meer rogues, very jugglers, they have cheated us both; Just so did the shoemaker do to me.</p>
+               </sp>
+               <sp>
+                  <speaker>Cur.</speaker>
+                  <p>He has got my box of mill'd sixpences, and <hi>Harry</hi> groates, the guilded sizers that were given me for a new years gift, and my bodkin and thimble.</p>
+               </sp>
+               <sp>
+                  <speaker>Jen.</speaker>
+                  <p>I wou'd they might both feed upon nothing but rot<g ref="char:EOLhyphen"/>ten apples, and be choakt with pears.</p>
+               </sp>
+               <sp>
+                  <speaker>Cur.</speaker>
+                  <p>Or a peice of clout be left in the next fresh cheese they eat and strangle 'um, or a favourable spider drop into the cream, and drowne himself that he may poison them. <stage>Enter Ditty and Budget.</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Dit.</speaker>
+                  <p>'Slife loose this opportunity, there she is, on I say and I'l be your second, I warrant she had been dead be<g ref="char:EOLhyphen"/>fore this time, but that she smelt your breath hard by, or else knew by simpathy that you were com<g ref="char:EOLhyphen"/>ing.</p>
+               </sp>
+               <sp>
+                  <speaker>Bud.</speaker>
+                  <p>Did the let<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er work so strangely on her are you sure, I wou'd not willingly venture my lips for a kisse or my eyes for a look.</p>
+               </sp>
+               <sp>
+                  <speaker>Dit.</speaker>
+                  <p>Why I tell thee she was so nigh a dissolution when I left her, that I thought to have found her in a Sand-box, or begd by some vintner to keep bottled wine in before I cou'd return.</p>
+               </sp>
+               <sp>
+                  <pb n="27" facs="tcp:101042:16"/>
+                  <speaker>Bud.</speaker>
+                  <p>Well I'l try though she squeeze me into verjuice, and stamp my bones into small coale, that they may be twice burnt: O my hony-comb, milk sop <hi>Nacy,</hi> whiter then the powder of chalk and like it, able to scoure off the durt of sully'd drabs, and paint them with a brightnesse as glustering as thy own.</p>
+               </sp>
+               <sp>
+                  <speaker>Cur.</speaker>
+                  <p>Out you sooty Goblin, besmear'd Dolt, dost think I'l couple with a Negro, to bring forth mag-pies halfe white, and halfe black? take me for a Bee to knit at the sound of a brasse kettle or frying-pan? Bundle of charck<g ref="char:EOLhyphen"/>coale, Furd crock dost think I'l hang in thy pot-hook armes? Hence, or I'l beate thee worse then the Bridwell crew do's hempe.</p>
+               </sp>
+               <sp>
+                  <speaker>Dit.</speaker>
+                  <p>I, I, Read him the same lesson, you con'd me.</p>
+               </sp>
+               <sp>
+                  <speaker>Bud.</speaker>
+                  <p>Sweet Mistresse <hi>Curds</hi> be not so sower, good <hi>Ditty</hi> stop her mouth.</p>
+               </sp>
+               <sp>
+                  <speaker>Dit.</speaker>
+                  <p>Hold, hold, <hi>Nacy,</hi> he thought all women like pots of Ale, and that Tinkers might call for 'um as freely as the finest customer, this crabtree lecture will teach him better manners hereafter.</p>
+               </sp>
+               <sp>
+                  <speaker>Jen.</speaker>
+                  <p>I Sister, do not foule your mouth any more with the checker-fac't scullion, let him go.</p>
+               </sp>
+               <sp>
+                  <speaker>Dit.</speaker>
+                  <p>Come then and shake hands, wee'l fine him for's sawcinesse, and his ransome shall be half a dozen at mine Host <hi>Welcom's,</hi> come, come, you shall be friends and I'l perfect the reconciliation with a song.</p>
+               </sp>
+               <sp>
+                  <speaker>Bud.</speaker>
+                  <p>Half a dozen! Wee'l score out all the chalk i'th' house and make the tapster fetch one o'th' City Clarks to summe up the reckoning.</p>
+               </sp>
+               <sp>
+                  <speaker>Jen.</speaker>
+                  <p>Come Sister lets go drink sorrow's dry, and a wo<g ref="char:EOLhyphen"/>mans anger shou'd be like Jack waits, quickly up and quickly down. <stage>Exeunt.</stage>
+                  </p>
+               </sp>
+            </div>
+            <div n="13" type="scene">
+               <pb n="28" facs="tcp:101042:17"/>
+               <head>SCEN. XIII.</head>
+               <stage>
+                  <hi>Enter</hi> Welcom.</stage>
+               <p>I, I, 'tis the rich face that keeps us from poverty, if the Taylor's countenance were in fashion now, and all that had fiery faces were counted comet's, what a decay wou'd there be amongst our houses of good Fellowship: how our can's wou'd rot and juggs grow musty for want of use? I wou'd the whole City were juggs and can's, that they might never be in good case, but when they'r full of good liquor, I fear this will be a bad year for all of our pro<g ref="char:EOLhyphen"/>fession, salt meats are grown out of fashion, and Lent will be forgotten this year, and for ought I know, the next Papist that's drunk, may make the people condemne it for superstition, because he uses it, forbid thou, who ever art patron of good fellowship. <stage>
+                     <hi>Enter</hi> Bung.</stage>
+               </p>
+               <sp>
+                  <speaker>Bung.</speaker>
+                  <p>I'l be with you presently, Master can you give me a groat and sixpence for a twopence?</p>
+               </sp>
+               <sp>
+                  <speaker>Wel.</speaker>
+                  <p>Who ist for?</p>
+               </sp>
+               <sp>
+                  <speaker>Bung.</speaker>
+                  <p>For a couple of stranger's i'th' Kings head, they have sat preaching this two houres over two can's, and call'd me rogue and rascall for not giving attendance, and setting a Chamber pot for 'um, they've twopence to pay.</p>
+               </sp>
+               <sp>
+                  <speaker>Wel.</speaker>
+                  <p>Then thoud'st have me give 'um eightpence to be gone, ha!</p>
+               </sp>
+               <sp>
+                  <speaker>Bung.</speaker>
+                  <p>A groat and twopence for a sixpence I mean.</p>
+               </sp>
+               <sp>
+                  <speaker>Wel.</speaker>
+                  <p>There 'tis, go be nimble, we have had but small takings to day, men have got the sqienzy or stopping of the throat I think, thy drink so slowly, may it turn to the drop<g ref="char:EOLhyphen"/>sie, that they may never be weary of drinking, but that every draught may but make room for two more. 'Twill never be a good world, while there's any but <hi>Welch</hi>-tavernes,
+<pb n="29" facs="tcp:101042:17"/> such as sell nothing but Ale and Tobacco, these French and Spanish ones will be the undoing of us all, men are grown such Dotrills that they had rather give five or six shillings to be drunk like the <hi>Spaniard</hi> with Canary, or the <hi>French</hi>-man with Claret, then so many pence to be fox't with their own native beer. <stage>
+                        <hi>Enter</hi> Bung.</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Bun.</speaker>
+                  <p>O Master, Master, yonder's <hi>Ditty</hi> and <hi>Budget</hi> come in with two doxes, <hi>Ditty</hi> sweares he'l have one of 'um, though she cuckold him the first night, and <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lap a paire of hornes upon his head, that will confine him to his Chamber, till rutting time come, and he shed 'um.</p>
+               </sp>
+               <sp>
+                  <speaker>Wel.</speaker>
+                  <p>Who are they which they're in amourd so with?</p>
+               </sp>
+               <sp>
+                  <speaker>Bung.</speaker>
+                  <p>The ones <hi>Nacy Curds,</hi> and the other <hi>Hanna Jen<g ref="char:EOLhyphen"/>niting, Ditty</hi> and <hi>Jenniting</hi> are agreed already, now if you'l go promote <hi>Budgets</hi> suite, and make a conclusion between him and <hi>Curds,</hi> the wedding will be kept at our house, and we shall besides the getting by the victuals, put off the barrell of soure beer. By and by. <stage>Exit.</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Well said <hi>Bung,</hi> the crafti'st knave alive, I shou'd be glad to see both <hi>Budget</hi> and <hi>Ditty</hi> in the way of multiply<g ref="char:EOLhyphen"/>ing, all their progeny cannot chuse but be friends to the black pot, and will be notable tiplers I warrant 'um, as soon as they come to the sucking bottle, I'l go my self and con<g ref="char:EOLhyphen"/>tract 'um. <stage>Exit.</stage>
+                  </p>
+               </sp>
+            </div>
+            <div n="14" type="scene">
+               <pb n="30" facs="tcp:101042:18"/>
+               <head>SCEN. XIIII.</head>
+               <stage>
+                  <hi>Enter</hi> Bristle, Heath, Gumb.</stage>
+               <sp>
+                  <speaker>Bris.</speaker>
+                  <p>POX o'th' ugly Baboon, she has got a face like a <hi>Bartholmew</hi> fair baby, and a mouth like the whale that swallow'd a whole fleet, her fingers are rowling pins and her armes cowle-staffs, hang her, what shou'd women do with mony, or any thing that's good.</p>
+               </sp>
+               <sp>
+                  <speaker>He.</speaker>
+                  <p>You say true, If we had let 'um alone, I warrant these boxes had been kept till they were mouldy, visited but once a quarter, and at last bequeath'd by will and Testa<g ref="char:EOLhyphen"/>ment to some Silly sober well-wisher of her's in her life time.</p>
+               </sp>
+               <sp>
+                  <speaker>Bris.</speaker>
+                  <p>One that never dranke above foure-shilling beer, but once at a Christning, and then had like to have got a red nose by it, cannot distinguish between a jugge and a flaggon, never was in an Ale-house, knows not what a bush meanes, nor ever spent above twopence in his life, and that was upon a prayer-book.</p>
+               </sp>
+               <sp>
+                  <speaker>Gum.</speaker>
+                  <p>Your tongues me thinks run very glibbe, I wonder they do not screak for want of liquor, what Tapster? atten<g ref="char:EOLhyphen"/>dance here.</p>
+               </sp>
+               <sp>
+                  <speaker>Bung.</speaker>
+                  <p>Anon, anon Sir, I have it in my hand. <hi>Enter</hi> Tapster,</p>
+                  <p>You'r welcome Gentlemen, here's a cup of the best Ale in <hi>London.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Bris.</speaker>
+                  <p>How Gentlemen? untutor'd slave, sawcy Villain, Gentlemen? why sarrah do I look like a Gentleman? I scorne thy termes, and let this kick put thee in mind of bet<g ref="char:EOLhyphen"/>ter Language.</p>
+               </sp>
+               <sp>
+                  <speaker>Bung.</speaker>
+                  <p>Cry you mercy, I mistook you indeed.</p>
+               </sp>
+               <sp>
+                  <speaker>He.</speaker>
+                  <p>Sirrah wee'l make you know who you mistake; call one of your Masters best Customers Gentle<g ref="char:EOLhyphen"/>man.</p>
+               </sp>
+               <sp>
+                  <pb n="31" facs="tcp:101042:18"/>
+                  <speaker>Bung.</speaker>
+                  <p>Anon Anon Sir, I'l be, with you presently,</p>
+               </sp>
+               <stage>Exit.</stage>
+               <sp>
+                  <speaker>Bris.</speaker>
+                  <p>Sirrah bid your Master come in.</p>
+               </sp>
+               <sp>
+                  <speaker>Gum.</speaker>
+                  <p>Come here's a round to the first inventor of the Famous Art of drinking.</p>
+               </sp>
+               <sp>
+                  <speaker>Bris.</speaker>
+                  <p>No, no, to the first finder out of the noble Art of brewing, for we shou'd be forc't to drink water else.</p>
+               </sp>
+               <sp>
+                  <speaker>He.</speaker>
+                  <p>To neither, but to the first most commendable Ale-house keeper, that sold three can's for two-pence, he is the chiefe benefactor we have, come three Can's to his health.</p>
+               </sp>
+               <sp>
+                  <speaker>Gum. Bris.</speaker>
+                  <p>A match.</p>
+               </sp>
+               <stage>Enter <hi>Welcom, Ditty, Budget, Jennit. Curds.</hi>
+               </stage>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Set you merry, my merry, merry lads, what do the Can's daunce nimbly?</p>
+               </sp>
+               <sp>
+                  <speaker>He.</speaker>
+                  <p>Yes, but we want a pipe or too, good mine Host lets have some whiffe.</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Here's a Musitian, honest <hi>Ditty,</hi> and <hi>Budget</hi> too, if they do not make up the consort, they are very much out of tune.</p>
+               </sp>
+               <sp>
+                  <speaker>Dit.</speaker>
+                  <p>O <hi>Gumb</hi> have we found you out, my box you slave.</p>
+               </sp>
+               <sp>
+                  <speaker>Bud.</speaker>
+                  <p>And my <hi>Budget.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Come set about, set about my boon Compani<g ref="char:EOLhyphen"/>ons.</p>
+               </sp>
+               <sp>
+                  <speaker>Br.</speaker>
+                  <p>A devil on your snout, Oat-meele face, and tallow-chops, how came you hither, with a pox trow.</p>
+               </sp>
+               <sp>
+                  <speaker>He.</speaker>
+                  <p>Look here <hi>Bristle,</hi> how like shorn sheep they Look, where shall we run? they have cast me into a fit o'th' shaking palsey.</p>
+               </sp>
+               <sp>
+                  <speaker>Bris.</speaker>
+                  <p>Come wee'l out face 'um.</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Come sit down my joviall boyes and roare, this night wee'l suck up all the dew.</p>
+               </sp>
+               <stage>
+                  <hi>Enter Bung</hi> with Tobacco.</stage>
+               <sp>
+                  <speaker>Bun.</speaker>
+                  <p>Here's a pipe o'th' best Tobacco, that Christen<g ref="char:EOLhyphen"/>dome affords, it grew under the King of <hi>Spaines</hi> own
+<pb n="32" facs="tcp:101042:19"/> window: By and by, what do you want Sirs? <stage>Exit.</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Dit.</speaker>
+                  <p>And I warrant he us'd to fling pisse-pots out on't.</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Wee'l drink our selves into fish, and eat our selves into cormorants, wee'l not fast though it be an eye to a sur<g ref="char:EOLhyphen"/>feting gawdy day.</p>
+               </sp>
+               <sp>
+                  <speaker>He.</speaker>
+                  <p>I'st an eve say you, pray what Holliday is too mor<g ref="char:EOLhyphen"/>row.</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>
+                     <hi>Budgets</hi> and <hi>Ditty's</hi> Nuptialls, drink freely all is paid already, and you are <hi>Ditty's</hi> guests to night as well as mine, there sit the brides, you shall not leave my house to night, that I may be sure of you to morrow morning at the solemnities, be merry then and free; I'l pardon you your groats too morrow, and none shall forfeit but he that is not drunk. <stage>Exit Wel.</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>He. Bris. Gum.</speaker>
+                  <p>Joy to the brides, and bride-grooms.</p>
+               </sp>
+               <sp>
+                  <speaker>Dit.</speaker>
+                  <p>Gentlemen you may see how quickly a man may be shuffled into a wedding, we lik'd at first sight, and why shou'd we then deferre our joys any longer.</p>
+               </sp>
+               <sp>
+                  <speaker>Bud.</speaker>
+                  <p>Like the Spanniell, I was beaten into love, but at last have overcome, thanks to mine Host, that took my part.</p>
+               </sp>
+               <sp>
+                  <speaker>Cur.</speaker>
+                  <p>And I cheated into a bride, he that stole away my box made up the match between you and me.</p>
+               </sp>
+               <sp>
+                  <speaker>Bris.</speaker>
+                  <p>I'st so I faith? then Mistresse bride pray take this box, you know it I beleeve and me too.</p>
+               </sp>
+               <sp>
+                  <speaker>He.</speaker>
+                  <p>And you this bundle.</p>
+               </sp>
+               <sp>
+                  <speaker>Jen.</speaker>
+                  <p>The thing I was cheated off, art thou the theef too? O the very villaine.</p>
+               </sp>
+               <sp>
+                  <speaker>Cur.</speaker>
+                  <p>Lay hold of 'um, sweet <hi>Budget,</hi> the slaves that cheat<g ref="char:EOLhyphen"/>ed us in a disguise.</p>
+               </sp>
+               <sp>
+                  <speaker>Dit.</speaker>
+                  <p>Come what's the matter! wee'l have no quarrel<g ref="char:EOLhyphen"/>ling too night, we forgive all.</p>
+               </sp>
+               <sp>
+                  <speaker>Gum.</speaker>
+                  <p>Then your books may be freed for eighteen pence, that's all they are engag'd for yet, and the budget but for two shillings.</p>
+               </sp>
+               <sp>
+                  <speaker>Dit. Bud.</speaker>
+                  <p>We forgive most willing.</p>
+               </sp>
+               <sp>
+                  <pb n="33" facs="tcp:101042:19"/>
+                  <speaker>Dit.</speaker>
+                  <p>A Porter wou'd not have carry'd 'um so farre for the price.</p>
+               </sp>
+               <sp>
+                  <speaker>Bris.</speaker>
+                  <p>Here's a health to the Brides then, out of an ex<g ref="char:EOLhyphen"/>tinguisher, I'l find 'um in mice-traps, brushes, steele and tinder box, all their life time.</p>
+               </sp>
+               <sp>
+                  <speaker>He.</speaker>
+                  <p>And I with broomes.</p>
+               </sp>
+               <sp>
+                  <speaker>Gum.</speaker>
+                  <p>I'l cut their Cornes for nothing, and draw their Teeth for a touch of their lips.</p>
+               </sp>
+               <sp>
+                  <speaker>Dit.</speaker>
+                  <p>Deferre that health till too morrow, In the mean while lets have on to the <hi>Genius</hi> of good Ale.</p>
+               </sp>
+               <sp>
+                  <speaker>Omnes</speaker>
+                  <p>Begin't, begin't.</p>
+               </sp>
+               <sp>
+                  <speaker>Dit.</speaker>
+                  <l>
+                     <hi>Submit bunch of Grapes,</hi>
+                  </l>
+                  <l>
+                     <hi>To the strong Barly eare,</hi>
+                  </l>
+                  <l>
+                     <hi>The weak vine no longer,</hi>
+                  </l>
+                  <l>
+                     <hi>The Laurell shall weare.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Bud.</speaker>
+                  <l>
+                     <hi>Sack and all drinks else,</hi>
+                  </l>
+                  <l>
+                     <hi>Desist from the strife,</hi>
+                  </l>
+                  <l>
+                     <hi>Ale's th' onely Aqua vitae,</hi>
+                  </l>
+                  <l>
+                     <hi>And liquor of life.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>All: tog.</speaker>
+                  <l>
+                     <hi>Then come my boon fellow's,</hi>
+                  </l>
+                  <l>
+                     <hi>Let's drink it a round,</hi>
+                  </l>
+                  <l>
+                     <hi>It keeps us from th' grave,</hi>
+                  </l>
+                  <l>
+                     <hi>Though it lay's us o'th' ground.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Bud.</speaker>
+                  <l>
+                     <hi>Ales a Physitian,</hi>
+                  </l>
+                  <l>
+                     <hi>No Mountebanke braggar,</hi>
+                  </l>
+                  <l>
+                     <hi>Can cure the chill ague,</hi>
+                  </l>
+                  <l>
+                     <hi>Though't be with the stagger.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Dit.</speaker>
+                  <l>
+                     <hi>Ales a strong w'restler,</hi>
+                  </l>
+                  <l>
+                     <hi>Flings all it hath met.</hi>
+                  </l>
+                  <l>
+                     <hi>And makes the ground slippery,</hi>
+                  </l>
+                  <l>
+                     <hi>Though't be not wet.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Omnes</speaker>
+                  <l>
+                     <hi>But come my boon,</hi> &amp;c.</l>
+               </sp>
+               <sp>
+                  <speaker>Dit.</speaker>
+                  <l>
+                     <hi>Ale is both Ceres.</hi>
+                  </l>
+                  <l>
+                     <hi>And good Neptune too,</hi>
+                  </l>
+                  <l>
+                     <hi>Ale's froth was the Sea,</hi>
+                  </l>
+                  <l>
+                     <hi>From whence Venus grew.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <pb n="34" facs="tcp:101042:20"/>
+                  <speaker>Bud.</speaker>
+                  <l>
+                     <hi>Ale is immortall,</hi>
+                  </l>
+                  <l>
+                     <hi>And be there no stops,</hi>
+                  </l>
+                  <l>
+                     <hi>In bony Lads quaffing,</hi>
+                  </l>
+                  <l>
+                     <hi>Can live without hops,</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Omnes</speaker>
+                  <l>
+                     <hi>Then come my boon fellows,</hi>
+                  </l>
+                  <l>
+                     <hi>Lets drink it a round,</hi>
+                  </l>
+                  <l>
+                     <hi>It keep's us from the grave,</hi>
+                  </l>
+                  <l>
+                     <hi>Though it lay's us o'th' ground.</hi>
+                     <stage>All drink.</stage>
+                  </l>
+               </sp>
+               <stage>Enter Welcom.</stage>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Well said my whistling birds, tis spring with you all the year long, while the Ale flourishes, come I have provided a supper will tire your Teeth, tis but a prologue though of too morrow's feast, I hope your appetites need no provocation's, It now waits for you, But will not be ready, till you concoct it. Come then cheer up my bux<g ref="char:EOLhyphen"/>om girles, the cakes and posset my wife shall provide, and I'l engage my self to be father to you both, <hi>Ditty's</hi> Ballads and his Budget shall be cut out into favours, and gloves. <stage>Exeunt.</stage>
+                  </p>
+               </sp>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="epilogue">
+            <pb n="35" facs="tcp:101042:20"/>
+            <head>Epilogue. <hi>Welcom</hi> the Host.</head>
+            <l>GEntlemen and Lady's, I am sent to you,</l>
+            <l>Not to beg cast by sheets, a shirt or two,</l>
+            <l>Or clouts for th' teeming women, nor bespeak</l>
+            <l>Gossips or guests against the Christning week,</l>
+            <l>No off'ring for th' married couple, what then?</l>
+            <l>Onely to bid you welcom Gentlemen,</l>
+            <l>Before your parting: and for th' women beg;</l>
+            <l>That when they travell, you'd not sit crosse-leg;</l>
+            <l>But when their notes are turn'd to child-birth cries,</l>
+            <l>You'd cry, good speed to their delivery's:</l>
+            <l>And if our cry's have wanted mirth, or wit,</l>
+            <l>There's one more left, we cry you mercy yet.</l>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
